@@ -32,6 +32,9 @@ The redesigned UI focuses on improving the patient experience by providing clear
 Healthcare Clinic Redesign:
 https://www.figma.com/design/HW0wtqs8ym2BxCSZujEAQb/HealthCare-Clinic
 
+## Linkedin post 
+Link :https://www.linkedin.com/posts/vundamatla-revanth-karthikeya-manikanta-51059b2aa_uiux-figma-uidesign-activity-7439305707646066689-1t48?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEp7QhwBvYuuHP-3-k3hIIvgrQxm03OQlGE
+
 ## Design Process
 
 1. Website usability evaluation
