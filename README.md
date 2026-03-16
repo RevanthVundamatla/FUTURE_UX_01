@@ -33,7 +33,7 @@ Healthcare Clinic Redesign:
 https://www.figma.com/design/HW0wtqs8ym2BxCSZujEAQb/HealthCare-Clinic
 
 ## Linkedin post 
-Link :https://www.linkedin.com/posts/vundamatla-revanth-karthikeya-manikanta-51059b2aa_uiux-figma-uidesign-activity-7439305707646066689-1t48?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEp7QhwBvYuuHP-3-k3hIIvgrQxm03OQlGE
+Link :https://www.linkedin.com/posts/vundamatla-revanth-karthikeya-manikanta-51059b2aa_uiux-figma-uidesign-ugcPost-7439330189714767872-dq6_?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEp7QhwBvYuuHP-3-k3hIIvgrQxm03OQlGE
 
 ## Design Process
 
